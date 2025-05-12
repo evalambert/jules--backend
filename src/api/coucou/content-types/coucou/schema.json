@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "coucous",
+  "info": {
+    "singularName": "coucou",
+    "pluralName": "coucous",
+    "displayName": "Coucou"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Description": {
+      "type": "string"
+    },
+    "Years": {
+      "type": "biginteger"
+    }
+  }
+}
